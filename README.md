@@ -1,6 +1,6 @@
 # 👋 Hi there,
 
-Welcome to my GitHub profile! I'm [Your Name], a dedicated web developer on a journey of continuous learning and growth. With a passion for crafting elegant and functional web solutions, I'm eager to explore new technologies, expand my skill set, and collaborate on exciting projects.
+Welcome to my GitHub profile! I'm Aryan Thakur a dedicated web developer on a journey of continuous learning and growth. With a passion for crafting elegant and functional web solutions, I'm eager to explore new technologies, expand my skill set, and collaborate on exciting projects.
 
 
 ## 🌐 Socials:
