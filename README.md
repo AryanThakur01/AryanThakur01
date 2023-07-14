@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm Aryan Thakur a dedicated web developer on a journey of continuous learning and growth. With a passion for crafting elegant and functional web solutions, I'm eager to explore new technologies, expand my skill set, and collaborate on exciting projects.
 
+### 🎉 Fun Fact
+
+I have an uncanny ability to write code with such efficiency that my keyboard becomes jealous.
 
 ## 🌐 Socials:
 
@@ -24,7 +27,3 @@ Welcome to my GitHub profile! I'm Aryan Thakur a dedicated web developer on a jo
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🎉 Fun Fact
-
-I have an uncanny ability to write code with such efficiency that my keyboard becomes jealous.
