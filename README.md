@@ -20,10 +20,6 @@ I have an uncanny ability to write code with such efficiency that my keyboard be
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryanthakur01&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanthakur01&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aryanthakur01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
