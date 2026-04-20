@@ -9,4 +9,4 @@ Currently at Blinker Technology. Previously shipped a KaiOS app to 200K+ users.
 
 ---
 
-📎 [LinkedIn](https://linkedin.com/in/aryan-thakur-73b251250) · 📧 Available for remote roles
+📎 [LinkedIn](https://linkedin.com/in/aryan-thakur-73b251250)
