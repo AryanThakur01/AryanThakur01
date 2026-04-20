@@ -1,6 +1,6 @@
 # 👋 Hi there,
 
-Welcome to my GitHub profile! I'm Aryan Thakur a dedicated Software Engineer on a journey of continuous learning and growth. With a passion for crafting elegant software solutions, I am always eager to explore new technologies, expand my skill set, and collaborate on exciting projects.
+Full Stack Engineer · TS, Next.js, Node.js, AWS · Scaled a blockchain app to 200K+ users
 
 ### 🎉 Fun Fact
 
