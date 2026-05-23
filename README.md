@@ -20,7 +20,7 @@ Current deep interests: event-driven architecture, and systems that are designed
 
 | Project | What It Is | Stack |
 |---------|------------|-------|
-| [aryanthakur.dev](#) | Portfolio platform | Next.js · Typescript |
+| [aryanthakur.dev](https://www.aryanthakur.dev) | Portfolio platform | Next.js · Typescript |
 
 
 ---
