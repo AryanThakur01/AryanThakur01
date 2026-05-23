@@ -48,4 +48,4 @@ Editor      Neovim
 
 ---
 
-[Portfolio](#) &nbsp;·&nbsp; [LinkedIn](#) &nbsp;·&nbsp; [Email](mailto:your@email.com)
+[Portfolio](https://www.aryanthakur.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/aryan-thakur-73b251250/) &nbsp;·&nbsp; [Email](mailto:aryan197297@gmail.com)
